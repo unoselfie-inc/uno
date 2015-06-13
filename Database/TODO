@@ -1,0 +1,6 @@
+1. Check variable types
+2. Primary keys and unique keys
+3. Check foregin keys / reference keys
+4. on Update and Delete
+5. check here(http://www.w3schools.com/sql/sql_alter.asp) for more references
+6. Finish HashPassword.php
